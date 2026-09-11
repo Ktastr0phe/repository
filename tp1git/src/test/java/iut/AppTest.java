@@ -10,6 +10,13 @@ public class AppTest {
     public void testAmoinsB() {
         Sub sub = new Sub();
 
-        assertEquals(1, sub.sub(9, 8));
+        assertEquals(1, sub.sub(7, 6));
+    }
+
+    @Test
+    public void testAmoinsB2() {
+        Sub sub = new Sub();
+
+        assertEquals(0, sub.sub(3, 3));
     }
 }
