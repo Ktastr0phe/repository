@@ -6,8 +6,7 @@ package iut;
 public class App {
     public static void main(String[] args) {
         System.out.println("Calculatrice");
-    }
-    public static void main(String[] args) {
+        System.out.println("Addition fonctionnelle dans la calculatrice");
         System.out.println("Soustraction fonctionnelle dans la calculatrice");
     }
 
