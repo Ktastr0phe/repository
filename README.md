@@ -1,4 +1,4 @@
 # repository
 tp1 de qualité
-Alice = keridwen
-Bob = sarah
+Alice = kéridwen nimajimbe
+Bob = sarah seguié
